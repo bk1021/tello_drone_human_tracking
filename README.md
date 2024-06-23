@@ -13,7 +13,7 @@ Detect and track human using DJI Tello drone.
 - Video recorded by drone will be saved as video.avi
 
 <p align="center"> 
-    <img src="./info/demo1.gif" alt="400" width="400">
+    <img src="./info/demo.gif" alt="400" width="400">
 </p>
 
 ### Run Program
