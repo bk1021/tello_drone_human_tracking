@@ -29,6 +29,7 @@ options:
   -td TD        Distance tracking
   -tr TR        Rotation tracking
 
+e.g. python main.py 
 e.g. python main.py -vsize "(600,400)" -th True -tr False
 ```
 
