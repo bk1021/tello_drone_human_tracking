@@ -1,4 +1,4 @@
-# tello_drone_human_tracking
+# Tello Drone Human Tracking
 Detect and track human using DJI Tello drone.
 
 ### Features
