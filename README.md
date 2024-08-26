@@ -35,7 +35,7 @@ e.g. python main.py -vsize "(600,400)" -th True -tr False
 
 ### Requirements
 
-- Download Anaconda and create an environment using command line list in requirement.txt or create similar environment using other ways
+- Download Anaconda and create an environment using command line list in requirement.txt or create similar environment using other ways (can refer environment.yml)
 - DJI Tello drone
 
 ### Reference
